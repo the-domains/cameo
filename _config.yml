@@ -1,0 +1,14 @@
+layout_spectrum: 0.7736444
+typography_spectrum: 0.3157995
+color:
+  saturation: 0.1039684
+  lightness: 0.731792
+  brandStrength: 0.1068808
+  rhythmicContrast: 0.3228224
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Cameo
