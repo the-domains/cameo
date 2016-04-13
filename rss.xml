@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cameo]]></title>
+        <description><![CDATA[Cameo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Apr 2016 16:19:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why This Former 'The Walking Dead' Producer Banned 'Manterrupting']]></title>
+            <description><![CDATA[<article><h1>Why This Former 'The Walking Dead' Producer Banned 'Manterrupting'</h1><p>Viewers who tuned in to Glen Mazzara's new series, Damien (which premiered this week on A&E), saw a dark drama about the now-grown-up diabolical kid from the 1976 film The Omen. What they didn't see was Mazzara's behind-the-scenes creation: A writers' room that is equal parts male and female-a rarity in Hollywood.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c52d61f807dc154b4f0b419f1e83d456f14cb2ae.jpg"></article>]]></description>
+            <link>http://fortune.com/2016/03/08/glen-mazzara-diversity-writers/?xid=for_fb_sh</link>
+            <guid isPermaLink="false">68cef06c-b426-4776-a7c1-1d167f5b5481</guid>
+            <pubDate>Wed, 13 Apr 2016 16:19:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
