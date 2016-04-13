@@ -1,14 +1,3 @@
-color:
-  saturation: 0.1039684
-  brandStrength: 0.1068808
-  rhythmicContrast: 0.3228224
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  lightness: 0.731792
 collections:
   - index:
       path: /
@@ -21,6 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.7736444
+color:
+  saturation: 0.2885305
+  brandStrength: 0.1068808
+  lightness: 0.02329749
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  rhythmicContrast: 0.9265233
 typography_spectrum: 0.3157995
+layout_spectrum: 0.9767025
 name: Cameo
